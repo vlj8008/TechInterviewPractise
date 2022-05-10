@@ -1,0 +1,7 @@
+C:\Programming\CSharp\TechInterviewPractise\TechInterviewPractise\TechInterviewPractise\obj\Debug\TechInterviewPractise.csproj.AssemblyReference.cache
+C:\Programming\CSharp\TechInterviewPractise\TechInterviewPractise\TechInterviewPractise\obj\Debug\TechInterviewPractise.csproj.CoreCompileInputs.cache
+C:\Programming\CSharp\TechInterviewPractise\TechInterviewPractise\TechInterviewPractise\bin\Debug\TechInterviewPractise.exe.config
+C:\Programming\CSharp\TechInterviewPractise\TechInterviewPractise\TechInterviewPractise\bin\Debug\TechInterviewPractise.exe
+C:\Programming\CSharp\TechInterviewPractise\TechInterviewPractise\TechInterviewPractise\bin\Debug\TechInterviewPractise.pdb
+C:\Programming\CSharp\TechInterviewPractise\TechInterviewPractise\TechInterviewPractise\obj\Debug\TechInterviewPractise.exe
+C:\Programming\CSharp\TechInterviewPractise\TechInterviewPractise\TechInterviewPractise\obj\Debug\TechInterviewPractise.pdb
